@@ -1,0 +1,9 @@
+# 数据驱动用例：多组状态码校验
+- code: 200
+  expect_status: 200
+- code: 301
+  expect_status: 301
+- code: 404
+  expect_status: 404
+- code: 500
+  expect_status: 500

@@ -1,5 +1,9 @@
 # pytest 接口自动化测试框架（测开求职项目）
 
+![API Tests](https://github.com/2827728775/pytest-api-framework/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![pytest](https://img.shields.io/badge/pytest-passing-brightgreen)
+
 一个**能直接跑、能演示、能写进简历**的接口自动化测试框架脚手架，覆盖测试开发校招最看重的几项能力：
 请求封装、token 鉴权、断言收口、数据驱动、Allure 报告、多环境配置。
 

@@ -1,2 +1,0 @@
-INFO     api_framework:request.py:25 -> GET https://httpbin.org/bearer
-INFO     api_framework:request.py:27 <- 401

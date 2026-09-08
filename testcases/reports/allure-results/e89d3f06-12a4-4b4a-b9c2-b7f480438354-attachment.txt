@@ -1,2 +1,0 @@
-INFO     api_framework:request.py:25 -> POST https://httpbin.org/post
-INFO     api_framework:request.py:27 <- 200
